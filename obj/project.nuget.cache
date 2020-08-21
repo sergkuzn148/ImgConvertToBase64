@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hyyS74QAPjJnvk0/B2MoRc43bjSFXi/YFU93qgt1fLM0fUL8H+wN4ABtkPLneSCGH8TnxS2DFXR0bNoSYMwfww==",
+  "dgSpecHash": "MaS7QxPBmVJbUf/xkO8uLkTKuLHP7TvChUhHUl3E0tbmtM4eDT2+ODBPHvtApzyU1gDNYnp3boY/Tg1v2Lx8OQ==",
   "success": true,
-  "projectFilePath": "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgToBase64.csproj",
+  "projectFilePath": "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgConvertToBase64.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

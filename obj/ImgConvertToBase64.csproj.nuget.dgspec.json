@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgToBase64.csproj": {}
+    "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgConvertToBase64.csproj": {}
   },
   "projects": {
-    "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgToBase64.csproj": {
+    "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgConvertToBase64.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgToBase64.csproj",
-        "projectName": "ImgToBase64",
-        "projectPath": "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgToBase64.csproj",
+        "projectUniqueName": "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgConvertToBase64.csproj",
+        "projectName": "ImgConvertToBase64",
+        "projectPath": "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/ImgConvertToBase64.csproj",
         "packagesPath": "/Users/sergeykuznetsov/.nuget/packages/",
         "outputPath": "/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/",
         "projectStyle": "PackageReference",

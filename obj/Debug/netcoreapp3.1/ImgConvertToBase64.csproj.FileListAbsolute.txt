@@ -1,0 +1,12 @@
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/bin/Debug/netcoreapp3.1/ImgConvertToBase64.deps.json
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/bin/Debug/netcoreapp3.1/ImgConvertToBase64.runtimeconfig.json
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/bin/Debug/netcoreapp3.1/ImgConvertToBase64.runtimeconfig.dev.json
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/bin/Debug/netcoreapp3.1/ImgConvertToBase64.dll
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/bin/Debug/netcoreapp3.1/ImgConvertToBase64.pdb
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/Debug/netcoreapp3.1/ImgConvertToBase64.csprojAssemblyReference.cache
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/Debug/netcoreapp3.1/ImgConvertToBase64.csproj.CoreCompileInputs.cache
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/Debug/netcoreapp3.1/ImgConvertToBase64.AssemblyInfoInputs.cache
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/Debug/netcoreapp3.1/ImgConvertToBase64.AssemblyInfo.cs
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/Debug/netcoreapp3.1/ImgConvertToBase64.dll
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/Debug/netcoreapp3.1/ImgConvertToBase64.pdb
+/Users/sergeykuznetsov/Documents/GitHub/ImgToBase64/ImgConvertToBase64/obj/Debug/netcoreapp3.1/ImgConvertToBase64.genruntimeconfig.cache
